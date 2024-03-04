@@ -4,9 +4,12 @@ GLHS Shader for Dynamic Grain
 
 This is a dynamic and colored grain, the color is based from the video where the grain will be added.
 
-This is primarly made for MPV. You can use it by placing the GLHS shader in the Shader folder in MPV.
+This is primarly made for MPV.
 
-You can also use it in Plex, place it in the sahder folder located in %localappdata%\Plex.
+# Installation
+**Put it in `shaders` folder in MPV**
+
+You can also use it in Plex, place it in the sahder folder located in `%localappdata%\Plex`.
 
 To load it automatically with mpv, edit mpv.conf and add
 
