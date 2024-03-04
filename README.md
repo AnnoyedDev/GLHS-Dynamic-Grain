@@ -2,7 +2,7 @@
 GLHS Shader for Dynamic Grain
 
 
-This is a dynamic and colored grain, the color is based from the video where the grain will be added.
+This is a dynamic and subtle colored grain, the color is based from the video where the grain will be added.
 
 This is primarly made for MPV.
 
