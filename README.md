@@ -1,5 +1,5 @@
 # GLSL-Dynamic-Grain
-GLHS Shader for Dynamic Grain
+GLSL Shader for Dynamic Grain
 
 
 This is a dynamic and subtle colored grain, the color is based from the video where the grain will be added.
