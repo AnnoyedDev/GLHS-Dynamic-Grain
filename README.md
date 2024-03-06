@@ -1,4 +1,4 @@
-# GLHS-Dynamic-Grain
+# GLSL-Dynamic-Grain
 GLHS Shader for Dynamic Grain
 
 
