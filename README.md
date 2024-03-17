@@ -1,4 +1,4 @@
-# GLSL-Dynamic-Grain
+# GLSL Dynamic Grain
 GLSL Shader for Dynamic Grain
 
 
